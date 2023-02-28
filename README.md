@@ -3,6 +3,7 @@
 
 bob插件主要为bob用户开发,bob是一款macOS上的翻译软件,bob官网地址:https://bobtranslate.com/
 
+插件下载地址:
 
 使用方法:双击安装,直接使用
 
