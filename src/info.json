@@ -1,0 +1,27 @@
+{
+    "identifier": "com.akl.bob-plugin-akl-transmart-free-translate",
+    "version": "0.1.2",
+    "category": "translate",
+    "name": "Free 腾讯交互翻译",
+    "summary": "免token调用deepl",
+    "icon": "icon.png",
+    "author": "akl7777777 <akl7777777@163.com>",
+    "homepage": "https://github.com/akl7777777/bob-plugin-akl-transmart-free-translate",
+    "appcast": "https://raw.githubusercontent.com/akl7777777/bob-plugin-akl-transmart-free-translate/main/appcast.json",
+    "minBobVersion": "0.5.0",
+    "options": [
+        {
+            "identifier": "desc",
+            "type": "menu",
+            "title": "描述",
+            "defaultValue": "akl7777777",
+            "menuValues": [
+              {
+                "title": "腾讯交互翻译;无需token;无需key;",
+                "value": "akl7777777"
+              }
+            ],
+            "desc":"小芍同学免费调用腾讯交互翻译;无需token;无需key;"
+        }
+    ]
+}
