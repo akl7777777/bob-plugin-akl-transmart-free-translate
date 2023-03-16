@@ -1,9 +1,9 @@
 {
     "identifier": "com.akl.bob-plugin-akl-transmart-free-translate",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "category": "translate",
     "name": "Free 腾讯交互翻译",
-    "summary": "免token调用deepl",
+    "summary": "免token调用腾讯交互翻译",
     "icon": "icon.png",
     "author": "akl7777777 <akl7777777@163.com>",
     "homepage": "https://github.com/akl7777777/bob-plugin-akl-transmart-free-translate",
