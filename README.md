@@ -3,8 +3,8 @@
 
 bob插件主要为bob用户开发,bob是一款macOS上的翻译软件,bob官网地址:https://bobtranslate.com/
 
-插件下载地址:[bob-plugin-akl-transmart-free-translate_v0.0.1.bobplugin
-](https://github.com/akl7777777/bob-plugin-akl-transmart-free-translate/releases/download/v0.0.1/bob-plugin-akl-transmart-free-translate_v0.0.1.bobplugin)
+插件下载地址:[bob-plugin-akl-transmart-free-translate_v0.1.3.bobplugin
+](https://github.com/akl7777777/bob-plugin-akl-transmart-free-translate/releases/download/v0.1.3/bob-plugin-akl-transmart-free-translate_v0.1.3.bobplugin)
 
 使用方法:双击安装,直接使用
 
