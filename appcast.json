@@ -1,11 +1,18 @@
 {
-    "identifier": "com.akl.bob-plugin-akl-transmart-free-translate",
-    "versions": [
-        {
-            "version": "0.0.1",
-            "desc": "初始版本",
-            "sha256": "1ee647e75e3667f39f7aba80db32b8c955e633d3035818fc174289a90c8cbdc9",
-            "url": "https://github.com/akl7777777/bob-plugin-akl-transmart-free-translate/releases/download/v0.0.1/bob-plugin-akl-transmart-free-translate_v0.0.1.bobplugin"
-        }
-    ]
+  "identifier": "com.akl.bob-plugin-akl-transmart-free-translate",
+  "versions": [
+    {
+      "version": "0.1.3",
+      "desc": "优化",
+      "sha256": "734e6ca1002785510862a44c962979645bd7ceda210e049f9bb326eeadf0809f",
+      "url": "https://github.com/akl7777777/bob-plugin-akl-transmart-free-translate/releases/download/v0.1.3/bob-plugin-akl-transmart-free-translate_v0.1.3.bobplugin",
+      "minBobVersion": "0.5.0"
+    },
+    {
+      "version": "0.0.1",
+      "desc": "初始版本",
+      "sha256": "1ee647e75e3667f39f7aba80db32b8c955e633d3035818fc174289a90c8cbdc9",
+      "url": "https://github.com/akl7777777/bob-plugin-akl-transmart-free-translate/releases/download/v0.0.1/bob-plugin-akl-transmart-free-translate_v0.0.1.bobplugin"
+    }
+  ]
 }
